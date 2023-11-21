@@ -1,0 +1,6 @@
+com/example/rate/controller/RateController.class
+com/example/rate/entity/RateEntity.class
+com/example/rate/repository/RateRepository.class
+com/example/rate/RateApplication.class
+com/example/rate/entity/RateEntity$RateEntityBuilder.class
+com/example/rate/service/RateService.class
